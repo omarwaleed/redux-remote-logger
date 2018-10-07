@@ -1,0 +1,15 @@
+{
+  "name": "redux-remote-logger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "redux",
+    "redux-middleware",
+    "middleware",
+    "logger",
+    "log",
+    "remote"
+  ],
+  "author": "Omar Waleed <owezzat@gmail.com>"
+}
