@@ -11,5 +11,8 @@
     "log",
     "remote"
   ],
-  "author": "Omar Waleed <owezzat@gmail.com>"
+  "author": "Omar Waleed <owezzat@gmail.com>",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
